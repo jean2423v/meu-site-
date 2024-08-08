@@ -3,10 +3,10 @@
     color: aliceblue;
 } 
 body {
-    background-color: rgb(63, 81, 139);
+    background-color: rgb(121, 152, 255);
 }
 .button {
-    background-color: #db365a; /* Cor de fundo (verde) */
+    background-color: #3437e2; /* Cor de fundo (verde) */
     color: white; /* Cor do texto */
     border: none; /* Remove a borda */
     padding: 15px 32px; /* Espaçamento interno */
