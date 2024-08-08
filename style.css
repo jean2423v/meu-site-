@@ -6,5 +6,15 @@ body {
     background-color: rgb(63, 81, 139);
 }
 .button {
-    background-color: rgb(60, 60, 235);
+    background-color: #4CAF50; /* Cor de fundo (verde) */
+    color: white; /* Cor do texto */
+    border: none; /* Remove a borda */
+    padding: 15px 32px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Remove a sublinhado do texto */
+    display: inline-block; /* Alinha o botão */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 4px 2px; /* Margem ao redor do botão */
+    cursor: pointer; /* Muda o cursor ao passar sobre o botão */
+    border-radius: 8px; /* Arredonda os cantos */
 }
