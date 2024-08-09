@@ -18,8 +18,9 @@ body {
     margin: 4px 2px; /* Margem ao redor do botão */
     cursor: pointer; /* Muda o cursor ao passar sobre o botão */
     border-radius: 8px; /* Arredonda os cantos */
+    display: inline-block;
 }
-.meu-botao:hover {
+.button:hover {
     background-color: #45a049;
     }
 
