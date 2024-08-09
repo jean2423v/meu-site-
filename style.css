@@ -34,3 +34,6 @@ body {
     width: 616px;
     height: 356px;
 }
+.button {
+    border: 1px solid red; /* Borda temporária para visualização */
+}
